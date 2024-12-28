@@ -1,0 +1,74 @@
+Chaotic Frenzy is probably going to be the mindfuckiest one I have any part in development for.
+
+Chaotic Frenzy is single player in nature, but you will be competing with others score-wise and combat-wise.
+
+And Training Mission is a team based harder version of Chaotic Frenzy.
+
+**CHAOTIC FRENZY**
+
+In Chaotic Frenzy, the system assigns you a task. You do that task as fast as you can. Immediately after completion, you are given another task that is frequently of a completely different nature than the first one. Clear 40 lines in tetris. Steal a car and crash it into a mattress store. Pop 5 headshots. Type the paragraph on the screen. Draw 25 stars. Knock out your boxing opponent. Race someone across a Mario Bros map. Teabag someone three times. Enforced upgrade to something in your inventory. Put up a poster. Spray-paint your least favorite eating establishment. Control another player's walking as they aim/shoot. Achieve something in a game you've never played before. Reorganize your personal files. Send a player a video pop-up. You get the idea..
+
+.. but it gets trickier too. You're often doing two tasks at the same time. Driving a boat with the analog stick while playing breakout with the directional pad. Solving math equations while going thru a maze. Trivia questions while button mashing. Gunning the ship and collecting gems. That kinda realm.
+
+I'm not even coming up with the mean ones. Those all of the double-tasks I just listed sound difficult enough as is. Creatives can be brutal man.
+
+**TRAINING MISSION**
+
+For simplicity purposes, I'm only going to describe two-player Training Missions.
+
+So Chaotic Frenzy keeps track of how long it takes you to complete certain tasks. It also categorizes all of the tasks you do. It calculates stuff like average Words Per Minute, average time it takes to get four kills in a first-person-shooter, average lap times on a specific race track, how long it takes you to activate bots and take advantage of your inventory. How long it takes you to create shortcuts and combos for action sequences and offensive strikes. It's always timing, categorizing, and averaging. (It also assesses error rates and other criteria, but that's not important for the description at hand.)
+
+Play enough Chaotic Frenzy and eventually the game will know you well enough to establish your averages for all the stuff you do. Now that this is the case, we unlock Training Mission.
+
+--
+
+Training Mission's gameplay will always be an experience customized to the two players that are now going to cooperate. Training Mission measures Player 1's established averages and calculates the standard deviations for the tasks he or she has completed. Now that the established set averages/standard deviations, the game can now determine the Training Mission's Time Table / difficulty.
+
+The Time Table sets the difficult as such.
+In this example I will use the task 'shooting 10 rocks in the game astroids'.
+
+Whatever Player 1's average time for a task is, (like shooting 10 rocks in astroids) the Time Table will make the Mission's Time Expectation for this Training Mission instance slightly lower than their current average time. The time will be lower to make it harder.
+
+How much harder?
+
+The Time Table sets each and every one of Player 1's task Time Expectations at exactly 10% of the way to the next lower standard deviation ( starting at their established average)
+
+For the Training Mission instance, Player 1 is assigned a series of tasks. He can't start task 2 until he completes task 1. If he doesn't complete the first task by the Time Table's Time Expectation, the clock will just keep ticking. And that is not going to be very good for the mission's success rate.
+
+The Time Table set's Player 2's Time Expectations in the same fashion that Player 1's were.
+
+If that was confusing:
+
+Player 1 and Player 2 have two different Time Expectations for their Mission tasks.
+
+Player 1 and Player 2 can actually be playing different games pretty much the entire time.
+
+Player 1 and Player 2 only have to meet twice throughout the entire mission. The Rendezvous. And The Climax.
+
+The game's Time Table assigns each player 5 Minutes worth of tasks.
+
+In this example, all of Player 1's has been assigned 20 tasks, and the Time Expectation is for Player 1 to complete each one in 15 seconds.
+
+Player 2 has been assigned 12 completely different tasks. The Time Expectation for this player's tasks are set at 25 seconds.
+
+     *It is worth mentioning that generally the tasks won't have the same Time Expectation for all assigned tasks. No matter what combination of task Time Expectations, it will always add up to 5 Minutes.**
+
+     **Well.. it's also worth mentioning that everything is completely customizable. So I should say that the number of minute's worth of tasks the Time Table assigns to the two players are always identical.
+
+THE RENDEZVOUS and THE CLIMAX
+
+The Rendezvous is at 2 minutes and 30 seconds. Or whatever the halfway mark is of their Time Table. The Rendezvous is when both players require something from the other. It could be a key for a room, a weapon, a vehicle, a powerup, an outfit, a drug, a distraction, a phone, secret data, food, whatever. Player 1 will at some point before the Rendezvous collect what Player 2 needs, and vice versa.
+
+The Rendezvous can last a fraction of a second. It can also last over a minute. Some missions won't allow the Rendezvous to last under ten seconds. No matter what the scenario is, you want to make it go as quickly as possible. Help the other player, then immediately separate and go back to your own Mission Tasks.
+
+THE CLIMAX
+
+The Climax is when the two players meet up one last time. The Climax is the 2nd to last Mission Task for both players. Sometimes The Climax involves a boss. Sometimes the players need each other's help. Sometimes  Player 1 must help Player 2 throughout the entire Climax. Sometimes Player 1 and 2 alternate being helpful. Sometimes The Climax is harder than the rest of the tasks. Sometimes The Climax is easier than the rest of the tasks. Sometimes The Climax involves a bunch of tasks. Sometimes The Climax looks no different from any of the other Mission Tasks.
+
+The Conclusion
+
+After The Climax, each player must complete one more Mission Task. If both players complete all of the tasks before 5 minutes is up, they both get a shitton of experience points and items.
+
+If Player 1 completes their final Mission Task but Player 2 does not, Player 1 gets a shitton of experience points, but not as many points as he or she would have if Player 2 completed their final Mission Task.
+
+Player 2 did not complete their final Mission Task in this example. Player 2 still gets a lot of experience points, but not as many as Player 1 receives.
